@@ -22,7 +22,6 @@ func _exit_tree():
 
 
 class AndroidExportPlugin extends EditorExportPlugin:
-	var _plugin_name = "GDBatteryTemp"
 
 	func _supports_platform(platform):
 		if platform is EditorExportPlatformAndroid:
@@ -37,4 +36,4 @@ class AndroidExportPlugin extends EditorExportPlugin:
 
 
 	func _get_name():
-		return _plugin_name
+		return "GDBatteryTemp"
