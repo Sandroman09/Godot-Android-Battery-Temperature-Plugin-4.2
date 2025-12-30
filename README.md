@@ -3,7 +3,7 @@ Android plugin for Godot used to access the battery temperature of android devic
 
 ## How to use it
 1) Copy the GDBatteryTemp folder into the addons folder of your Godot project.
-  ![Image of the GDBatteryTemp folder in the addons folder](screenshots/screnshot_step_1.png)
+  ![Image of the GDBatteryTemp folder in the addons folder](Screenshots/Screnshot_step_1.png)
   
 2) Activate the plugin in the project settings.
   <img width="1919" height="1027" alt="Screenshot 2025-12-30 123201" src="https://github.com/user-attachments/assets/7de160e0-a811-4f51-9d32-63d30c911cb6" />
